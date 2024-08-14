@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Tingting Hou"
   pronouns         : # example: "he/him/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Baton Rouge, LA"
   employer         : "Louisiana State University"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          :# "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
