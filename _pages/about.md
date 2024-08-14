@@ -9,7 +9,7 @@ redirect_from:
 
 I am an Assistant Professor in the Department of Experimental Statistics at Louisiana State University.
 
-My research primarily focuses on statistical genetics and statistical/machine learning. One area of my research involves developing statistical and machine learning methods for high-dimensional data analysis, such as genetic data analysis. In parallel with this, I am also interested in developing deep learning and statistical methods, as well as software, for analyzing large-scale multi-omics data, including but not limited to genetics, single-cell genomics, and metagenomics. In addition to creating new methods, I collaborate with other researchers to explore various biomedical and public health research questions.
+My research primarily focuses on statistical genetics and statistical/machine learning. A key aspect of my work involves developing statistical and machine learning methods for high-dimensional data analysis, particularly in genetic data. Additionally, I am interested in creating deep learning and statistical methods, along with software, for analyzing large-scale and high-dimensional datasets. This includes genome-wide association studies and functional genomic sequencing studies, such as single-cell RNA sequencing and spatially resolved transcriptomics. By developing novel analytic methods, I aim to extract critical insights from these data and enhance our understanding of the genetic basis of phenotypic variation in various human diseases and disease-related quantitative traits.
 
 Employment
 ======
