@@ -7,6 +7,11 @@ author_profile: true
 
 * Names with * indicates corresponding authors
 
+2024
+======
+
+* **Tingting Hou**, Xiaoxi Shen, Shan Zhang, Muxuan Liang, Li Chen, Qing Lu, AIGen: an artificial intelligence software for complex genetic data analysis, Briefings in Bioinformatics, Volume 25, Issue 6, November 2024, bbae566, https://doi.org/10.1093/bib/bbae566
+
 2023
 ======
 * **Hou, T.**, Jiang, C., Lu, Q. (2023). "A Kernel-Based Neural Network Test for High-dimensional Sequencing Data 
